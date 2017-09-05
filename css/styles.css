@@ -1,1 +1,51 @@
+#parent {
+  max-width: 960px;
+}
 
+
+.frontBanner {
+
+  background: no-repeat left url("../img/milkbg.jpg");
+  background-size: cover;
+  min-height: 270px;
+}
+.bannerTextBox{
+  width: 50%;
+  height: 50%;
+  text-align: center;
+  background: rgba(113, 113, 113, 0.5);
+}
+
+.links {
+  background: #333333;
+}
+
+.cookie{
+    text-align: center;
+}
+.cookie img {
+  border-radius: 50%;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+.aboutus {
+  background-color: #d3d3d3;
+  clear: both;
+  padding: 10px 0px 10px 10px;
+  max-height: 244px;
+}
+.aboutus h2{
+  text-align: center;
+}
+.aboutus img {
+  float: left;
+  margin-right: 15px;
+}
+
+.contact{
+  background-color: #19a0cf;
+  text-align: center;
+  padding-bottom: 20px;
+  color: #ffffff;
+}
