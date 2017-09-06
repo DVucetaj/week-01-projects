@@ -10,10 +10,12 @@
   min-height: 270px;
 }
 .bannerTextBox{
-  width: 50%;
-  height: 50%;
   text-align: center;
   background: rgba(113, 113, 113, 0.5);
+  position: relative;
+  top: 50px;
+  width: 45%;
+  height: 80%;
 }
 
 .links {
@@ -32,7 +34,7 @@
 .aboutus {
   background-color: #d3d3d3;
   clear: both;
-  padding: 10px 0px 10px 10px;
+  padding: 0px 10px 10px 10px;
   max-height: 244px;
 }
 .aboutus h2{
